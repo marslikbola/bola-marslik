@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    background-color: rgb(157, 157, 216);
+    border: 2px solid red;
+    border-radius: 30px;
+}
+
+em {
+    color: red;
+}
+
+h3 {
+    color: green;
+}
+
+h2 {
+    background-color: yellow;
+    color: green;
+    text-align: center;
+}
+
+img {
+    width: 45%;
+    height: 350px;
+}
+
+textarea {
+    width: 900px;
+    height: 70px;
+}
+
+.w {
+    background-color: green;
+    color: white;
+}
+
+tr {
+    background-color: red;
+    color: white;
+}
+
+button {
+    background-color: rgb(114, 114, 175);
+    color: white;
+    width: 100px;
+    height: 25px;
+    border: none;
+}
